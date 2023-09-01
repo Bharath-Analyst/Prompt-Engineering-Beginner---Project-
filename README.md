@@ -1,1 +1,2 @@
-# Prompt-Engineering-Beginner---Project-
+# Prompt Engineering Portfolio
+This repository compiles prompts crafted by Bharath as they progress in their pursuit of expertise as a prompt engineer. It presents an assortment of prompts designed for various applications, encompassing natural language processing, data analysis, and other domains. The primary objective of this portfolio is to showcase the proficiency in constructing top-notch prompts that harness the capabilities of AI models like OpenAI's GPT series to their fullest potential.
